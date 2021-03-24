@@ -7,4 +7,4 @@
 
 
 ## Arquitectura
-![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/tree/main/images/arquitectura.png)
+![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/arquitectura.png)
