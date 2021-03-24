@@ -26,7 +26,13 @@ Google Cloud Balancer para manejar el flujo de datos que ingresa desde Locust a 
 
 
 ### GRPC
-![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/grpc.png)
+![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/grcp.png)
 
 
 Tendremos un cliente y un servidor de GRPC programados en Go. Este sistema de llamada a un procedimiento remoto proporciona características como autenticación, transmisión bidireccional y control de flujo, entre otras cosas. 
+
+
+### RabbitMQ
+![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/rabbit.png)
+
+Es un sistema de mensajería no tan pesado, pero con muchas opciones disponibles para los usuarios, lo que hacen de este software una herramienta para tomar en cuanta en desarrollos donde se necesiten este tipo de soluciones.
