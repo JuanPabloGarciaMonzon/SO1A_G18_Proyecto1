@@ -13,10 +13,20 @@
 
 ### Locust
  ![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/locust.png)
+ 
+ 
 Generador de tráfico que en este caso es el encargado de recibir el JSON y enviarlo al balanceador de carga; está basado en Python. Este genera un archivo traffic.json. Se debe configurar el numero de usuarios totales, tasa de generación y su respectivo host. El archivo de la aplicación es traffic.py.
 
 
 ### Google Cloud Balancer
 ![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/googleloadbalancer.png)
+
+
 Google Cloud Balancer para manejar el flujo de datos que ingresa desde Locust a los diferentes servicios disponibles, 4 máquinas virtuales con diferentes intermediarios, como lo son:
 
+
+### GRPC
+![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/grpc.png)
+
+
+Tendremos un cliente y un servidor de GRPC programados en Go. Este sistema de llamada a un procedimiento remoto proporciona características como autenticación, transmisión bidireccional y control de flujo, entre otras cosas. 
