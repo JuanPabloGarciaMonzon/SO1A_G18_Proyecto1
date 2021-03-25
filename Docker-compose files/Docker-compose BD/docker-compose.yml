@@ -1,0 +1,18 @@
+version: "3.3"
+services:
+  mongo-server:
+      restart: always
+      build: ./MongoServer
+      ports:
+        - "80:5000"
+      links:
+        - mongodb
+      volumes:
+        - /proc:/proc
+
+  mongodb:
+       container_name: base
+       image: mongo
+       ports:
+        - "8080:27017"
+
