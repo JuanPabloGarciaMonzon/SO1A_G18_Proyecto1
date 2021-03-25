@@ -36,3 +36,9 @@ Tendremos un cliente y un servidor de GRPC programados en Go. Este sistema de ll
 ![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/rabbitmq.png)
 
 Es un sistema de mensajería no tan pesado, pero con muchas opciones disponibles para los usuarios, lo que hacen de este software una herramienta para tomar en cuanta en desarrollos donde se necesiten este tipo de soluciones.
+
+
+### Nats
+![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/nats.png)
+
+Es un software open-source de mensajería que actúa como una cola de mensajes distribuida para aplicaciones nativas en la nube.
