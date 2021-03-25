@@ -42,3 +42,9 @@ Es un sistema de mensajería no tan pesado, pero con muchas opciones disponibles
 ![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/nats.png)
 
 Es un software open-source de mensajería que actúa como una cola de mensajes distribuida para aplicaciones nativas en la nube.
+
+
+### Google PubSub
+![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/maxresdefault.jpg)
+
+Servicio de Google para mensajería asíncrona que se identifica por separar servicios que producen eventos de otros servicios que procesan eventos.
