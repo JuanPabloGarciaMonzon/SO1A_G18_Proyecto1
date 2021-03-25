@@ -8,3 +8,9 @@
 
 # FrontEnd de nuestra aplicación
 ![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/WhatsApp%20Image%202021-03-24%20at%2022.45.55.jpeg)
+
+
+![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/WhatsApp%20Image%202021-03-24%20at%2023.47.18.jpeg)
+
+
+![texto_alternativo](https://github.com/JuanPabloGarciaMonzon/SO1A_G18_Proyecto1/blob/main/images/WhatsApp%20Image%202021-03-24%20at%2023.17.44.jpeg)
