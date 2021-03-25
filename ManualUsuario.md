@@ -8,6 +8,8 @@
 # El usuario final tiene acceso a diferente estadísticas, gráficas y demás información generada por las herramientas utilizadas. A continuación se presentan capturas de como se debe visualizar dicha información.
 
 
+
+
 # FrontEnd de nuestra aplicación
 
 ## Información sobre los datos recopilados
